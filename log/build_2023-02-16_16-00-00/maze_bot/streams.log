@@ -1,0 +1,33 @@
+[0.383s] Invoking command in '/home/aysenur/planning_ws/path_planning_ws/src/maze_bot': PYTHONPATH=/home/aysenur/planning_ws/path_planning_ws/build/maze_bot/prefix_override:/home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build install --record /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed
+[0.510s] running egg_info
+[0.510s] writing ../../build/maze_bot/maze_bot.egg-info/PKG-INFO
+[0.510s] writing dependency_links to ../../build/maze_bot/maze_bot.egg-info/dependency_links.txt
+[0.510s] writing entry points to ../../build/maze_bot/maze_bot.egg-info/entry_points.txt
+[0.510s] writing requirements to ../../build/maze_bot/maze_bot.egg-info/requires.txt
+[0.511s] writing top-level names to ../../build/maze_bot/maze_bot.egg-info/top_level.txt
+[0.532s] reading manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.533s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.533s] running build
+[0.533s] running build_py
+[0.533s] copying maze_bot/bot_pathplanning.py -> /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.533s] copying maze_bot/bot_localization.py -> /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.533s] copying maze_bot/bot_mapping.py -> /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.534s] running install
+[0.534s] running install_lib
+[0.535s] copying /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot/bot_pathplanning.py -> /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot
+[0.535s] copying /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot/bot_localization.py -> /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot
+[0.535s] copying /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build/lib/maze_bot/bot_mapping.py -> /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot
+[0.535s] byte-compiling /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot/bot_pathplanning.py to bot_pathplanning.cpython-38.pyc
+[0.537s] byte-compiling /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot/bot_localization.py to bot_localization.cpython-38.pyc
+[0.538s] byte-compiling /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot/bot_mapping.py to bot_mapping.cpython-38.pyc
+[0.540s] running install_data
+[0.540s] running install_egg_info
+[0.541s] removing '/home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[0.542s] Copying ../../build/maze_bot/maze_bot.egg-info to /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages/maze_bot-0.0.0-py3.8.egg-info
+[0.542s] running install_scripts
+[0.553s] Installing driving_node script to /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.553s] Installing go_to_goal script to /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.553s] Installing maze_solver script to /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.553s] Installing video_recorder script to /home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.553s] writing list of installed files to '/home/aysenur/planning_ws/path_planning_ws/build/maze_bot/install.log'
+[0.567s] Invoked command in '/home/aysenur/planning_ws/path_planning_ws/src/maze_bot' returned '0': PYTHONPATH=/home/aysenur/planning_ws/path_planning_ws/build/maze_bot/prefix_override:/home/aysenur/planning_ws/path_planning_ws/install/maze_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/build install --record /home/aysenur/planning_ws/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed

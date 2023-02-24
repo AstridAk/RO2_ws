@@ -1,0 +1,6 @@
+[console_scripts]
+driving_node = maze_bot.driving:main
+go_to_goal = maze_bot.go_to_goal:main
+maze_solver = maze_bot.maze_solver:main
+video_recorder = maze_bot.video_saver:main
+
